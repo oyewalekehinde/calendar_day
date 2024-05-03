@@ -1,6 +1,6 @@
 ## calendar_day
 
-The `DemoDivider` widget provides a simple wave divider that you can customize. Here are some usage examples:
+The `CalendarDayWidget` widget provides a simple wave divider that you can customize. Here are some usage examples:
 
 1. Using the default divider:
 
@@ -32,18 +32,11 @@ or a little bit of custom with:
 
 ## Example
 
-Find the example wiring in the [CalendarDay example application](https://github.com/swervendy/tambi-flutter-sdk/blob/main/example/lib/main.dart).
+Find the example wiring in the [CalendarDay example application](https://github.com/oyewalekehinde/calendar_day/blob/main/example/lib/main.dart).
 
-## API details
-
-See the [tambi_sdk.dart](https://github.com/swervendy/tambi-flutter-sdk/blob/feature/websocket_impl/lib/tambi_flutter_sdk.dart) for more API details
 
 ## Issues and feedback
 
-Please file [issues](https://github.com/swervendy/tambi-flutter-sdk/issues)
+Please file [issues](https://github.com/oyewalekehinde/calendar_day/issues)
 to send feedback or report a bug. Thank you!
 
-### Support the Library
-
-You can support the library by liking it on pub, staring in on Github and reporting any bugs you
-encounter.
