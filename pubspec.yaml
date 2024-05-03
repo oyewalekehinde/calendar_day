@@ -1,7 +1,7 @@
 name: calendar_day
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/oyewalekehinde/calendar_day
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
