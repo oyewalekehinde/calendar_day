@@ -2,7 +2,7 @@
 
 The `CalendarDayWidget` widget provides a simple wave divider that you can customize. Here are some usage examples:
 
-1. Using the default divider:
+1. Using the default widget:
 
 ```dart
 
