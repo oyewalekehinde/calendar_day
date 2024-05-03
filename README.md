@@ -1,6 +1,6 @@
 ## calendar_day
 
-The `CalendarDayWidget` widget provides a simple wave divider that you can customize. Here are some usage examples:
+The `CalendarDayWidget` widget provides a simple calendar day widget that you can customize. Here are some usage examples:
 
 1. Using the default widget:
 
