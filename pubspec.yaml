@@ -1,5 +1,5 @@
 name: calendar_day
-description: "A new Flutter package project."
+description: "This is a Widget that is use to customize a day date, by having a start and end date"
 version: 0.0.1
 homepage: https://github.com/oyewalekehinde/calendar_day
 
