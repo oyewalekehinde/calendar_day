@@ -1,6 +1,6 @@
 name: calendar_day
 description: "This is a Widget that is use to customize a day date, by having a start and end date"
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/oyewalekehinde/calendar_day
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.20.0
 
 dev_dependencies:
   flutter_test:
